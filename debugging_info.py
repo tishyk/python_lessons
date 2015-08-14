@@ -3,7 +3,8 @@ import traceback
 import logging
 logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s
 - %(message)s')
-
+#logging.basicConfig(filename='myProgramLog.txt', level=logging.DEBUG, format=' %(asctime)s - %(levelname)s
+#- %(message)s')  for saving debug info into file myProgramLog.txt
 
 'Example 1. Raise Exeption '
 
