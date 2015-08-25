@@ -1,13 +1,15 @@
 import smtplib
+
+mail_login = 'tishyk@mail.ru'
 smtpObj = smtplib.SMTP('smtp.mail.ru', 587)
 # In this case, you will need to create an SMTP object using smtplib.SMTP_SSL() and port 465 instead.
 print smtpObj.ehlo()
 
 smtpObj.starttls()
 
-smtpObj.login('tishyk@mail.ru', 'password')
+smtpObj.login(mail_login, raw_input('Enter e-mail password:'))
 
-smtpObj.sendmail('tishyk@mail.ru', 'tishyk@mail.ru',
+smtpObj.sendmail(mail_login, mail_login,
                  'Subject: Solong.\nDear Friend,Your Email test messsage send succesfully\nSincerely, Bob')
 
 smtpObj.quit()
