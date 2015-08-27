@@ -1,0 +1,44 @@
+- Python Overview:
+    import this
+    dynamic typization
+    python environment (idle, command shell, debugger, Aptana studio 3.x, PyCharm)
+    
+- Python Basic Syntax:
+    Interactive mode
+    Script mode
+    Python Basic Operators
+    
+- Python Variable Types(id, sys.getsizeof(obj)->bytes):
+    Immutable
+      Numbers
+      Strings
+      Tuples
+    Mutable
+      List
+      Dictionary
+      Set
+    Type conversion
+    
+- Python Decision Making:
+    if...else statements
+    
+- Python Loops:
+    For, While, (enumerate in loops)
+    
+- Built in functions:
+    abs, input, len, min, max, open, range, round, sorted, sum, vars, zip
+    
+- Functions
+
+- Python Classes/Objects
+
+- Python Exceptions
+    Assert
+    Raise
+    try, except
+    Exeption types
+    
+- Module installation and import
+
+- Homework task   
+- Links
