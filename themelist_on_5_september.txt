@@ -23,6 +23,7 @@
     if...else statements
     
 - Python Loops:
+    Iterator
     For, While, (enumerate in loops)
     
 - Built in functions:
