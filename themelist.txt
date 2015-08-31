@@ -1,0 +1,13 @@
+﻿Overview
+Basic Syntax   
+Variable Types   
+Python Decision Making    
+Loops  
+Built in functions
+Functions
+Python Classes/Objects
+Python Exceptions
+Module installation and import
+
+Homework  
+Useful links
