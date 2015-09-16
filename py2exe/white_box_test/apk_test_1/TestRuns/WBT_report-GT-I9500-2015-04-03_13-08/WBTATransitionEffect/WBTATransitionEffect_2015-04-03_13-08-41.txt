@@ -1,0 +1,10 @@
+START LOG: :: <<==============================================>>
+ ::    :::::::::::::: Start auto test with seed = 5462, count = 294  ::::::::::::::
+ ::    :::::::::::::: Start auto test with seed = 5462, count = 294  ::::::::::::::
+try to 2015-04-03_13-08-42 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2015-04-03_13-08-42 :: overrideTargetTexture(SGProperty aProperty)
+ :: overrideTargetTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2015-04-03_13-08-42 :: THROUGH

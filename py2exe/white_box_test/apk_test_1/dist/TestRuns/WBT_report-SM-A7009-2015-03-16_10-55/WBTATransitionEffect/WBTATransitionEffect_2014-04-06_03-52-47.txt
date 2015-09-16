@@ -1,0 +1,868 @@
+START LOG: :: <<==============================================>>
+ ::    :::::::::::::: Start auto test with seed = 4871, count = 288  ::::::::::::::
+ ::    :::::::::::::: Start auto test with seed = 4871, count = 288  ::::::::::::::
+try to 2014-04-06_03-52-47 :: CURVE
+ :: CURVE :: - :: time: 0ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-47 :: THROUGH
+ :: THROUGH :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-48 :: GALLERY
+ :: GALLERY :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-48 :: WIPE
+ :: WIPE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-48 :: SCALE
+ :: SCALE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-48 :: FLIP3
+ :: FLIP3 :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-48 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-48 :: PIVOT
+ :: PIVOT :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-48 :: CUBE2
+ :: CUBE2 :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-48 :: isInTransition
+ :: isInTransition :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-48 :: CURTAIN
+ :: CURTAIN :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-48 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-48 :: FOLDING
+ :: FOLDING :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-49 :: COVER_WITH_NEXT_PAGE
+ :: COVER_WITH_NEXT_PAGE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-49 :: overrideTargetTexture(SGProperty aProperty)
+ :: overrideTargetTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-49 :: WAVE
+ :: WAVE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-49 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-49 :: WIPE
+ :: WIPE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-49 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-49 :: WAVE
+ :: WAVE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-49 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-49 :: overrideTargetTexture(SGProperty aProperty)
+ :: overrideTargetTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-49 :: WIPE
+ :: WIPE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-50 :: PIVOT
+ :: PIVOT :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-50 :: CURTAIN
+ :: CURTAIN :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-50 :: GALLERY
+ :: GALLERY :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-50 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-50 :: CURTAIN
+ :: CURTAIN :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-50 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-50 :: isInTransition
+ :: isInTransition :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-50 :: CUBE2
+ :: CUBE2 :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-50 :: FOLDING
+ :: FOLDING :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-51 :: COVER_WITH_NEXT_PAGE
+ :: COVER_WITH_NEXT_PAGE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-51 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-51 :: isInTransition
+ :: isInTransition :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-51 :: CUBE2
+ :: CUBE2 :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-51 :: isInTransition
+ :: isInTransition :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-51 :: WAVE
+ :: WAVE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-51 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-51 :: WAVE
+ :: WAVE :: - :: time: 0ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-51 :: FLIP3
+ :: FLIP3 :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-51 :: WAVE
+ :: WAVE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-52 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-52 :: THROUGH
+ :: THROUGH :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-52 :: CUBE2
+ :: CUBE2 :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-52 :: SCALE
+ :: SCALE :: - :: time: 0ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-52 :: THROUGH
+ :: THROUGH :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-52 :: isInTransition
+ :: isInTransition :: - :: time: 0ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-52 :: GALLERY
+ :: GALLERY :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-52 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-52 :: GALLERY
+ :: GALLERY :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-52 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-53 :: CUBE2
+ :: CUBE2 :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-53 :: WIPE
+ :: WIPE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-53 :: COVER_WITH_NEXT_PAGE
+ :: COVER_WITH_NEXT_PAGE :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-53 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-53 :: SCALE
+ :: SCALE :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-53 :: THROUGH
+ :: THROUGH :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-53 :: isInTransition
+ :: isInTransition :: - :: time: 0ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-53 :: SCALE
+ :: SCALE :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-53 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-53 :: GALLERY
+ :: GALLERY :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-54 :: SCALE
+ :: SCALE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-54 :: GALLERY
+ :: GALLERY :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-54 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-54 :: CURTAIN
+ :: CURTAIN :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-54 :: SCALE
+ :: SCALE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-54 :: FOLDING
+ :: FOLDING :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-54 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-54 :: PIVOT
+ :: PIVOT :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-54 :: THROUGH
+ :: THROUGH :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-54 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 0ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-55 :: WAVE
+ :: WAVE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-55 :: PIVOT
+ :: PIVOT :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-55 :: PIVOT
+ :: PIVOT :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-55 :: FOLDING
+ :: FOLDING :: - :: time: 0ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-55 :: THROUGH
+ :: THROUGH :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-55 :: WIPE
+ :: WIPE :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-55 :: CURTAIN
+ :: CURTAIN :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-55 :: isInTransition
+ :: isInTransition :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-55 :: CURVE
+ :: CURVE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-56 :: THROUGH
+ :: THROUGH :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-56 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-56 :: isInTransition
+ :: isInTransition :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-56 :: SCALE
+ :: SCALE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-56 :: overrideTargetTexture(SGProperty aProperty)
+ :: overrideTargetTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-56 :: CURVE
+ :: CURVE :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-56 :: COVER_WITH_NEXT_PAGE
+ :: COVER_WITH_NEXT_PAGE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-56 :: COVER_WITH_NEXT_PAGE
+ :: COVER_WITH_NEXT_PAGE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-56 :: THROUGH
+ :: THROUGH :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-56 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-57 :: PIVOT
+ :: PIVOT :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-57 :: CUBE2
+ :: CUBE2 :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-57 :: WAVE
+ :: WAVE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-57 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-57 :: WAVE
+ :: WAVE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-57 :: COVER_WITH_NEXT_PAGE
+ :: COVER_WITH_NEXT_PAGE :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-57 :: GALLERY
+ :: GALLERY :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-57 :: THROUGH
+ :: THROUGH :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-57 :: THROUGH
+ :: THROUGH :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-57 :: overrideTargetTexture(SGProperty aProperty)
+ :: overrideTargetTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-58 :: isInTransition
+ :: isInTransition :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-58 :: COVER_WITH_NEXT_PAGE
+ :: COVER_WITH_NEXT_PAGE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-58 :: CUBE2
+ :: CUBE2 :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-58 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 0ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-58 :: isInTransition
+ :: isInTransition :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-58 :: CURVE
+ :: CURVE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-58 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-58 :: FLIP3
+ :: FLIP3 :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-58 :: isInTransition
+ :: isInTransition :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-58 :: GALLERY
+ :: GALLERY :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-59 :: COVER_WITH_NEXT_PAGE
+ :: COVER_WITH_NEXT_PAGE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-59 :: GALLERY
+ :: GALLERY :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-59 :: GALLERY
+ :: GALLERY :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-59 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-59 :: isInTransition
+ :: isInTransition :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-59 :: CUBE2
+ :: CUBE2 :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-59 :: PIVOT
+ :: PIVOT :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-52-59 :: SCALE
+ :: SCALE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-59 :: overrideTargetTexture(SGProperty aProperty)
+ :: overrideTargetTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-52-59 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-00 :: WAVE
+ :: WAVE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-00 :: GALLERY
+ :: GALLERY :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-00 :: PIVOT
+ :: PIVOT :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-00 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-00 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-00 :: PIVOT
+ :: PIVOT :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-00 :: CURVE
+ :: CURVE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-00 :: GALLERY
+ :: GALLERY :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-00 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-01 :: CURTAIN
+ :: CURTAIN :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-01 :: PIVOT
+ :: PIVOT :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-01 :: WIPE
+ :: WIPE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-01 :: CURTAIN
+ :: CURTAIN :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-01 :: SCALE
+ :: SCALE :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-01 :: FOLDING
+ :: FOLDING :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-01 :: overrideTargetTexture(SGProperty aProperty)
+ :: overrideTargetTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-01 :: FOLDING
+ :: FOLDING :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-01 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-01 :: CURVE
+ :: CURVE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-02 :: PIVOT
+ :: PIVOT :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-02 :: isInTransition
+ :: isInTransition :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-02 :: FOLDING
+ :: FOLDING :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-02 :: FLIP3
+ :: FLIP3 :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-02 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-02 :: CURTAIN
+ :: CURTAIN :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-02 :: SCALE
+ :: SCALE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-02 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-02 :: CURVE
+ :: CURVE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-02 :: THROUGH
+ :: THROUGH :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-03 :: CURVE
+ :: CURVE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-03 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-03 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-03 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-03 :: isInTransition
+ :: isInTransition :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-03 :: FOLDING
+ :: FOLDING :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-03 :: WAVE
+ :: WAVE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-03 :: CURTAIN
+ :: CURTAIN :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-03 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-04 :: PIVOT
+ :: PIVOT :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-04 :: PIVOT
+ :: PIVOT :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-04 :: WAVE
+ :: WAVE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-04 :: GALLERY
+ :: GALLERY :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-04 :: GALLERY
+ :: GALLERY :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-04 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-04 :: COVER_WITH_NEXT_PAGE
+ :: COVER_WITH_NEXT_PAGE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-04 :: SCALE
+ :: SCALE :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-04 :: CURVE
+ :: CURVE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-04 :: COVER_WITH_NEXT_PAGE
+ :: COVER_WITH_NEXT_PAGE :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-05 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-05 :: PIVOT
+ :: PIVOT :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-05 :: SCALE
+ :: SCALE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-05 :: THROUGH
+ :: THROUGH :: - :: time: 0ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-05 :: CURVE
+ :: CURVE :: - :: time: 0ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-05 :: THROUGH
+ :: THROUGH :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-05 :: isInTransition
+ :: isInTransition :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-05 :: FLIP3
+ :: FLIP3 :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-05 :: THROUGH
+ :: THROUGH :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-05 :: WAVE
+ :: WAVE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-06 :: GALLERY
+ :: GALLERY :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-06 :: isInTransition
+ :: isInTransition :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-06 :: CUBE2
+ :: CUBE2 :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-06 :: WIPE
+ :: WIPE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-06 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-06 :: CURTAIN
+ :: CURTAIN :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-06 :: isInTransition
+ :: isInTransition :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-06 :: SCALE
+ :: SCALE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-06 :: THROUGH
+ :: THROUGH :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-06 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-07 :: PIVOT
+ :: PIVOT :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-07 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-07 :: WIPE
+ :: WIPE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-07 :: PIVOT
+ :: PIVOT :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-07 :: GALLERY
+ :: GALLERY :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-07 :: CURTAIN
+ :: CURTAIN :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-07 :: isInTransition
+ :: isInTransition :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-07 :: overrideTargetTexture(SGProperty aProperty)
+ :: overrideTargetTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-07 :: THROUGH
+ :: THROUGH :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-07 :: overrideTargetTexture(SGProperty aProperty)
+ :: overrideTargetTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-08 :: PIVOT
+ :: PIVOT :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-08 :: WIPE
+ :: WIPE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-08 :: FOLDING
+ :: FOLDING :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-08 :: isInTransition
+ :: isInTransition :: - :: time: 0ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-08 :: THROUGH
+ :: THROUGH :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-08 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-08 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-08 :: SCALE
+ :: SCALE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-08 :: PIVOT
+ :: PIVOT :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-09 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-09 :: WAVE
+ :: WAVE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-09 :: overrideTargetTexture(SGProperty aProperty)
+ :: overrideTargetTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-09 :: CUBE2
+ :: CUBE2 :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-09 :: overrideTargetTexture(SGProperty aProperty)
+ :: overrideTargetTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-09 :: WIPE
+ :: WIPE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-09 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-09 :: FLIP3
+ :: FLIP3 :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-09 :: GALLERY
+ :: GALLERY :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-09 :: GALLERY
+ :: GALLERY :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-10 :: THROUGH
+ :: THROUGH :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-10 :: CURTAIN
+ :: CURTAIN :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-10 :: CURTAIN
+ :: CURTAIN :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-10 :: GALLERY
+ :: GALLERY :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-10 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-10 :: THROUGH
+ :: THROUGH :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-10 :: overrideTargetTexture(SGProperty aProperty)
+ :: overrideTargetTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-10 :: isInTransition
+ :: isInTransition :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-10 :: overrideTargetTexture(SGProperty aProperty)
+ :: overrideTargetTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-10 :: PIVOT
+ :: PIVOT :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-11 :: isInTransition
+ :: isInTransition :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-11 :: WIPE
+ :: WIPE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-11 :: GALLERY
+ :: GALLERY :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-11 :: CURTAIN
+ :: CURTAIN :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-11 :: isInTransition
+ :: isInTransition :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-11 :: FLIP3
+ :: FLIP3 :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-11 :: isInTransition
+ :: isInTransition :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-11 :: WAVE
+ :: WAVE :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-11 :: COVER_WITH_NEXT_PAGE
+ :: COVER_WITH_NEXT_PAGE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-11 :: isInTransition
+ :: isInTransition :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-12 :: WIPE
+ :: WIPE :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-12 :: WAVE
+ :: WAVE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-12 :: isInTransition
+ :: isInTransition :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-12 :: CURVE
+ :: CURVE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-12 :: SCALE
+ :: SCALE :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-12 :: THROUGH
+ :: THROUGH :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-12 :: PIVOT
+ :: PIVOT :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-12 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-12 :: CURTAIN
+ :: CURTAIN :: - :: time: 0ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-12 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-13 :: FOLDING
+ :: FOLDING :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-13 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-13 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-13 :: CURVE
+ :: CURVE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-13 :: FADE_IN_OUT
+ :: FADE_IN_OUT :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-13 :: isInTransition
+ :: isInTransition :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-13 :: WAVE
+ :: WAVE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-13 :: COVER_WITH_NEXT_PAGE
+ :: COVER_WITH_NEXT_PAGE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-13 :: GALLERY
+ :: GALLERY :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-13 :: overrideTargetTexture(SGProperty aProperty)
+ :: overrideTargetTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-14 :: FOLDING
+ :: FOLDING :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-14 :: WIPE
+ :: WIPE :: - :: time: 200ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-14 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-14 :: CURTAIN
+ :: CURTAIN :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-14 :: CURVE
+ :: CURVE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-14 :: CUBE2
+ :: CUBE2 :: - :: time: 0ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-14 :: PIVOT
+ :: PIVOT :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-14 :: isInTransition
+ :: isInTransition :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-14 :: FOLDING
+ :: FOLDING :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-15 :: isInTransition
+ :: isInTransition :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-15 :: ROTATE_CUBE
+ :: ROTATE_CUBE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-15 :: FLIP3
+ :: FLIP3 :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-15 :: CURTAIN
+ :: CURTAIN :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-15 :: FOLDING
+ :: FOLDING :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-15 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-15 :: GALLERY
+ :: GALLERY :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-15 :: SCALE
+ :: SCALE :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-15 :: FOLDING
+ :: FOLDING :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-15 :: PIVOT
+ :: PIVOT :: - :: time: 0ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-16 :: SCALE
+ :: SCALE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-16 :: FOLDING
+ :: FOLDING :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-16 :: THROUGH
+ :: THROUGH :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-16 :: CURTAIN
+ :: CURTAIN :: - :: time: 400ms :: - :: -  :: 1 :: true
+
+try to 2014-04-06_03-53-16 :: FLIP3
+ :: FLIP3 :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-16 :: SCALE
+ :: SCALE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-16 :: isInTransition
+ :: isInTransition :: - :: time: 0ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-16 :: CURVE
+ :: CURVE :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-16 :: FLIP3
+ :: FLIP3 :: - :: time: 400ms :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-16 :: overrideSourceTexture(SGProperty aProperty)
+ :: overrideSourceTexture(SGProperty aProperty) :: - :: - :: - :: -  :: 0 :: true
+
+try to 2014-04-06_03-53-17 :: isInTransition
+ :: isInTransition :: - :: time: 200ms :: - :: -  :: 0 :: true
+
+ :: >>============>> END :: :::::::::::::: Finished automation testing ::::::::::::::/n:::::::::::::: COUNT TEST = 288 ; SEED for random = 4871 ::::::::::::::<<============<<
