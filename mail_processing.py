@@ -1,4 +1,5 @@
 import smtplib
+import getpass
 
 mail_login = 'tishyk@mail.ru'
 smtpObj = smtplib.SMTP('smtp.mail.ru', 587)
@@ -7,7 +8,7 @@ print smtpObj.ehlo()
 
 smtpObj.starttls()
 
-smtpObj.login(mail_login, raw_input('Enter e-mail password:'))
+smtpObj.login(mail_login, getpass.getpass())
 
 smtpObj.sendmail(mail_login, mail_login,
                  'Subject: Solong.\nDear Friend,Your Email test messsage send succesfully\nSincerely, Bob')
