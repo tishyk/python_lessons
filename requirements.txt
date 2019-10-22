@@ -31,7 +31,7 @@ openpyxl==2.3.0
 p4python==2012.1.511074
 paramiko==1.11.2
 PIL==1.1.7
-Pillow==3.0.0
+Pillow==6.2.0
 py-dateutil==2.2
 py2exe==0.6.9
 pyadb==0.1.3
