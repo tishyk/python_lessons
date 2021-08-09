@@ -50,7 +50,7 @@ python-dateutil==2.4.0
 PyTweening==1.0.1
 pytz==2014.10
 PyVirtualDisplay==0.1.5
-pywin32==214
+pywin32==301
 pyzmail==1.0.3
 rdflib==3.1.0
 requests==2.6.0
