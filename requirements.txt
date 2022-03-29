@@ -29,7 +29,7 @@ nose==1.3.7
 numpy==1.9.1
 openpyxl==2.3.0
 p4python==2012.1.511074
-paramiko==1.11.2
+paramiko==2.10.1
 PIL==1.1.7
 Pillow==3.0.0
 py-dateutil==2.2
