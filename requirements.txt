@@ -41,7 +41,7 @@ pygame==1.9.1
 pylint==0.25.1
 PyMsgBox==1.0.3
 pyparsing==2.0.3
-PyPDF2==1.25.1
+PyPDF2==1.27.5
 pyperclip==1.5.11
 pypq==0.1.3
 pyrobotium==0.0.1
