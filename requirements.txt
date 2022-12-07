@@ -1,6 +1,6 @@
 backports.ssl-match-hostname==3.4.0.2
 beautifulsoup4==4.4.0
-certifi==2015.4.28
+certifi==2022.12.7
 colorama==0.3.3
 coverage==3.7.1
 cv2==1.0
